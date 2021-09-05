@@ -1,4 +1,4 @@
-# <div align="center">  Read data from FireSore - Flutter Web </div>
+# <div align="center">  Read data from FireStore - Flutter Web </div>
 
 <div align="center">
   
